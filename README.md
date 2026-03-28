@@ -1,15 +1,15 @@
 # 🚀 TVS Management System (C Project)
 
 ## 📌 Description
-This is a console-based project developed in C language to manage customer and employee data for a TVS showroom.
+This is a console-based application developed in C language to manage customer and employee records for a TVS showroom.
 
-## 💻 Features
+## 💡 Features
 - Add, update, delete customer records
-- Search and sort customer data
+- Search and sort data
 - EMI calculation system
-- Vehicle model selection system
+- Vehicle model selection
 - Employee management system
-- File handling using C
+- File handling using structures
 
 ## 🛠️ Technologies Used
 - C Programming
@@ -17,11 +17,14 @@ This is a console-based project developed in C language to manage customer and e
 - Structures
 - Functions
 
-## 📂 How to Run
-1. Compile the code using GCC:
+## ▶️ How to Run
+1. Compile the code:
    gcc main.c -o project
-2. Run:
+2. Run the program:
    ./project
+
+## 📸 Output
+(Add screenshots here)
 
 ## 👨‍💻 Author
 - Rudra Gaywala
