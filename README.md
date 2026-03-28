@@ -17,6 +17,15 @@ This is a console-based application developed in C language to manage customer a
 - Structures
 - Functions
 
+## 🔐 Admin Authentication
+
+- If no employee records are found, the system requires admin login.
+- Default credentials:
+
+  ID: admin  
+  Password: Admin@123
+
+- This ensures only authorized access to employee management features.
 
 ## ▶️ How to Run
 1. Compile the code:
