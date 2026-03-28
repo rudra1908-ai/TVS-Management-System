@@ -106,6 +106,17 @@ void checkPass2();
 void greet(int );
 int main()
 {
+	FILE *f1 = fopen("customer.txt","a");
+	FILE *f2 = fopen("employee_data","a");
+	
+	if(f1 == NULL || f2 == NULL)
+	{
+	    printf("Error creating files...\n");
+	    exit(1);
+	}
+
+fclose(f1);
+fclose(f2);
 	int choice,choice1;
 	if(countEmpRecord() == 0)
 	{
