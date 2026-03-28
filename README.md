@@ -17,12 +17,16 @@ This is a console-based application developed in C language to manage customer a
 - Structures
 - Functions
 
+
 ## ▶️ How to Run
 1. Compile the code:
    gcc main.c -o project
 2. Run the program:
    ./project
+3. No manual file setup required.
+   ✔ Required files are automatically created when the program runs.
 
+   💡 Note: Data is stored using file handling in C.
 ## 📸 Output
 
 1. Menu
